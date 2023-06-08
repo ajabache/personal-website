@@ -354,7 +354,7 @@ h3.my-profession{
 }
 .about .about-content .personal-info .info-item p{
     font-weight: 600;
-    font-size: 13px;
+    font-size: 11px;
     padding: 10px 0;
     color: var(--text-black-900);
     border-bottom: 1px solid var(--bg-black-50);
