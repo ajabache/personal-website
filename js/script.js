@@ -80,7 +80,7 @@ const nav = document.querySelector(".nav", ".logo"),
             link.href = 'resume.pdf'; // Relative URL to the file
 
             // Set the file name
-            link.download = 'resume.png'; // Replace with the actual file name
+            link.download = 'resume.pdf'; // Replace with the actual file name
 
             // Simulate a click on the link element to trigger the download
             link.click();
